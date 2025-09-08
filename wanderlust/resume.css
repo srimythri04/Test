@@ -1,0 +1,29 @@
+body{
+    font-family: Arialsans-serif;
+    Background-color:#f4f4f4;
+    padding:20px;
+}
+.resume{
+    color:black;
+    background-color:blue;
+    padding:30px;
+    margin:auto;
+}
+h1{
+    color:#2c3e50;
+    border-bottom:2px solid #ccc;
+}
+h2{
+    color:#34495e;
+    margin-top:20px;
+}
+ul{
+    padding-left:20px;
+}
+h4{
+    color:#2c3e50;
+}
+srrong{
+    color:#2d3436;
+    
+}
